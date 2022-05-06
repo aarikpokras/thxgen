@@ -1,2 +1,2 @@
 # thxgen
-thxgen has moved to [Anti-Apple4life's page](https://github.com/Anti-Apple4life/tymaker-team/tree/thxgen).
+thxgen has moved [here](https://github.com/tymaker-team) (github.com/tymaker-team)
